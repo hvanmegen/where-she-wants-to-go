@@ -13,11 +13,11 @@ Read [PROJECT.md](../PROJECT.md) first. Follow only relevant links.
 
 ## Rules
 - [PNASD](medical/neurological-disease.md)
-- [Neural interfaces](technology/neural-interfaces.md), [cyberspace](technology/cyberspace.md), [continuation](technology/consciousness-preservation.md), [digital habitat](technology/digital-habitat.md)
+- [Neural interfaces](technology/neural-interfaces.md), [cyberspace](technology/cyberspace.md), [continuation](technology/consciousness-preservation.md), [digital habitat](technology/digital-habitat.md), [provisional Mikoshi/Blackwall escape](technology/mikoshi-blackwall-escape.md)
 
 ## Places and themes
 - [Clinic](locations/clinic.md), [Arasaka Academy](locations/arasaka-academy.md), [Sanya's apartment](locations/sanya-apartment.md)
-- [Embodiment](themes/embodiment.md), [touch](themes/touch.md), [grief](themes/grief.md), [letting go](themes/letting-go.md), [physical / digital](themes/physical-vs-digital.md), [corporate indifference](themes/corporate-indifference.md), [visual language](themes/visual-language.md)
+- [Embodiment](themes/embodiment.md), [touch](themes/touch.md), [grief](themes/grief.md), [letting go](themes/letting-go.md), [love and harm](themes/love-and-harm.md), [physical / digital](themes/physical-vs-digital.md), [corporate indifference](themes/corporate-indifference.md), [visual language](themes/visual-language.md)
 
 ## Governance
 - [Decisions](decisions/decisions.md), [open questions](unresolved/open-questions.md), [lyrics](../lyrics/where-she-wants-to-go.md)

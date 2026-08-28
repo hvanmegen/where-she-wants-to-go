@@ -3,7 +3,7 @@ id: relationship.mari-eli
 type: relationship
 status: canon
 participants: [character.mari-novak, character.eli-novak]
-related: [event.eli-joins-arasaka, event.eli-learns-prognosis, event.eli-dies]
+related: [event.eli-joins-arasaka, event.eli-learns-prognosis, event.eli-dies, theme.love-and-harm]
 ---
 # Mari / Eli
 

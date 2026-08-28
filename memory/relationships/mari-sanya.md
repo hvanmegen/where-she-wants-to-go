@@ -3,7 +3,7 @@ id: relationship.mari-sanya
 type: relationship
 status: canon
 participants: [character.mari-novak, character.sanya-velez]
-related: [event.mari-meets-sanya, event.eli-dies, event.sanya-digital-transition, theme.touch]
+related: [event.mari-meets-sanya, event.eli-dies, event.sanya-digital-transition, theme.touch, theme.love-and-harm]
 ---
 # Mari / Sanya
 

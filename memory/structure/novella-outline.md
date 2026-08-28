@@ -17,7 +17,7 @@ No prose. Ten chapters.
 4. **May 2080:** grief contaminates care; Mari sees Sanya's ordinary symptoms as prophecy.
 5. **Late May:** reveal of concealed bypass load and advanced PNASD; Nadia enters as boundary keeper.
 6. **June:** Mari enters Sanya's full-sensory digital embodiment; understands why it feels like life, not escape.
-7. **Late June:** brainstem-map deadline and Arasaka offer; Mari/Sanya conflict over keeping versus loving.
-8. **Jul 16:** destructive transition, Nadia's extraction, Mari's bodily grief.
+7. **Late June:** brainstem-map deadline and Arasaka offer; ownership terms create an apparent final obstacle while Mari/Sanya conflict over keeping versus loving.
+8. **Jul 16:** destructive transition; Nadia averts Arasaka confinement and secures Sanya's autonomy. External victory gives way immediately to Mari's bodily grief.
 9. **After transition:** one rented-Doll attempt; consent cannot make a stranger's body Sanya's lost body.
 10. **Resolution:** private shared-space visit; Mari disconnects and returns alone.

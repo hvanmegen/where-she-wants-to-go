@@ -71,3 +71,24 @@ status: canon
 **Decision:** Nadia is of French-Chinese heritage. Exact nationality, migration history, and lived cultural practices remain open.
 
 **Affected nodes:** Nadia, appearance-and-ethnicity reference, open questions.
+
+## Undated — Arasaka obstacle and false victory
+**Status:** STRONG DIRECTION
+
+**Decision:** Arasaka's attempt to own or confine digital Sanya becomes a major late obstacle. Nadia successfully averts it, creating a genuine but limited victory: Sanya gains autonomy, while biological loss, metaphysical uncertainty, and Mari's grief remain.
+
+**Affected nodes:** corporate indifference, Sanya's transition, digital habitat, novella outline.
+
+## Undated — Love can motivate harm
+**Status:** STRONG DIRECTION
+
+**Decision:** Genuine love can motivate controlling, secretive, or violating behavior without excusing that behavior or guaranteeing forgiveness.
+
+**Affected nodes:** love-and-harm theme; Mari/Sanya, Mari/Eli, and Sanya/Nadia relationships.
+
+## Undated — Mikoshi / Blackwall escape concept
+**Status:** PROVISIONAL
+
+**Decision:** Preserve for development a route in which Arasaka contains Sanya in Mikoshi-derived storage and Nadia uses Eli's misappropriated research to help Sanya escape outward through a temporary Blackwall breach. Alt Cunningham remains precedent or rumor, not rescuer.
+
+**Affected nodes:** continuation technology, Nadia, Sanya's transition, digital habitat, open questions.
